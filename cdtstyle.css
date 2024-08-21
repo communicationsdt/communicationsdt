@@ -1,0 +1,209 @@
+
+* {
+	/* border: 1px solid #000000; */
+}
+
+* {
+	font-family: urbanist, sans-serif;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+body {
+    	background: #ffffff url("bg01.jpg");
+		background-size: cover;
+}
+/*qol divs*/
+div.imgcenter {
+	display: flex;
+	justify-content: center;
+}
+div.flexcontainer {
+	display: flex;
+	background-color: none;
+	justify-content: center;
+}
+/*end qol divs*/
+
+.text {
+	margin: 10px;
+	padding: 5px;
+	background: rgba(240, 255, 240, 0.9);
+	/*border: 3px solid #015400;*/
+}
+.navi {
+	margin: 5px;
+	padding: 5px;
+	background: rgba(240, 255, 240, 0.9);
+}
+/*start .text divs*/
+#leftside {
+	width: 15%;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	text-align: center;
+	position: relative;
+}
+#mid {
+	width: 70%;
+	padding: 25px;
+}
+#rightside {
+	width: 15%;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	text-align: center;
+}
+#contact {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 3px;
+	padding-right: 3px;
+	border-radius: 20px;
+	border-style: solid;
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	background: #e4fffb;
+}
+/*end .text divs*/
+#buttoncontainmentzone {
+	border-color: transparent;
+	background: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top:5px;
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: auto;
+}
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+/*these just affect the way text looks*/
+a {
+	text-decoration: none;
+	color: inherit;
+}
+a:hover {
+	color:#6ef091;
+}
+#info { 
+	display: block;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-style: solid;
+}
+.button {
+	display: block;
+	background: #ffffff;
+	border-radius: 15px;
+	margin-top: 15px;
+	color: #000000;
+	border: 3px solid #119e9e;
+	text-align: center;
+	margin-bottom: 15px;
+	padding: 7px 2px;
+}
+p {
+	padding: 5px;
+	margin: 5px 0px;
+	font-size: auto;
+}
+#mid p {
+	text-indent: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+h1 {
+	text-align: center;
+	font-family: "amaranth";
+	font-size: 60px;
+}
+
+/*these ones are all images*/
+#homebutton {
+	border: 3px solid #119e9e;
+	object-position: bottom-right;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	border-radius:25px;
+	object-fit:cover;
+	object-position: center;
+}
+img.jacket {
+	width: 175px;
+	height: 300px;
+	position: absolute;
+
+}
+img.banner {
+	height: 200px;
+	width: 750px;
+	object-poosition: center;
+}
+img.sideboard {
+	width: 175px;
+	height: 175px;
+}
+img.internal {
+	width: 500px;
+	height: 200px;
+}
+img.one {
+	width: 100px;
+}
+img.two {
+	width: 200px;
+}
+img.three {
+	width: 500px;
+}
+/*end image list*/
+/*??*/
+#smol {
+	font-size: 21px;
+	margin: none;
+	padding: none;
+}
+
+/*footies*/
+#foot {
+	text-align: center;
+}
+/*froggies*/
+#blog h2 {
+	margin: 10px;
+}
+#blog {
+	border: 3px solid #00cc00;
+}
+
+
+/* only used in main */
+#neutral {
+	display: flex;
+	justify-content: center;
+}
+#neutral > img {
+	margin: 10px;
+}
+/* only used in main */
+
+/*testing testing 123*/
+
+span {
+	position: relative;
+	margin: 10px;
+	padding: 10px;
+}
