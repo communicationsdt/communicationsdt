@@ -1,0 +1,112 @@
+<div id="mid" class="text">
+-
+</div> <!--mid-->
+~~~~ MAIN ~~~~
+<div id="mid" class="text">
+<h1>Communications Dog Training</h1>
+<h1 id="smol">Puyallup, WA</h1>
+<div class="imgcenter"><img class="three" src="../images/thesquad.jpg"></div>
+
+<p> Behavior is a form of communication, between dogs as well as between dogs and people. People use their bodies and voices to talk - and so do dogs! Barking, lunging, hiding, biting - your dog is speaking in their own language. If we want our dogs to learn our language, we should learn how to speak theirs, too.</p>
+
+<!--<div id="neutral">
+<img class="one" src="../placeholder.jpg"><img class="one" src="../placeholder.jpg"><img class="one" src="../placeholder.jpg"><img class="one" src="../placeholder.jpg"><img class="one" src="../placeholder.jpg">
+</div>--> <!--neutral--> 
+
+<p> Behavior is influenced by stimulation level, age, past experiences, physical wellness and mental wellness. By bringing these factors into balance, you and your dog can create a healthy relationship based on communication and trust.</p>
+<p> Every dog starts and ends somewhere different. Every training session is tailored to you and your dog's specific needs and goals. Cued behaviors like sit, stay, or come are important, but they're only the first step in creating a consistent, well-behaved dog. Sessions take place according to your schedule - some dogs need to be worked a couple times a week, some dogs do well with sessions taking place once a month, but most dogs need something in between.</p>
+<p> Dogs struggling with reactivity, resource guarding, and other behavioral issues are often struggling with communication. The language barrier can be the most evident when dogs continually escalate by growling, barking, lunging, and biting.</p>
+<p> All dogs with a bite history should be evaluated by a veterinarian to rule out physical issues such as pain and hormonal imbalances. Many dogs become better behaved after a dental cleaning or other necessary vet care - physical health is a huge part of mental health and emotional state.</p>
+<p> Finding what motivates each dog is extremely important. While food and toy rewards work for most dogs, some dogs do best with spatial rewards or opportunity rewards. If your dog doesn't seem to have high food drive or high toy drive, that's okay! Drive can be built, and in the mean time we can use whatever does motivate your dog.</p>
+<p> Tools can help add a little bit of clarity in communicating with your dogs, especially when it comes to teaching them how to walk with a loose leash, but they're never necessary. If you want your dog to walk nicely on a harness it can take longer than teaching them to walk nicely on a control collar such as a martingale, prong collar, or head halter, but it's absolutely doable! Some dogs respond best to certain tools, some dogs don't respond well to any tools, and every tool we add increases complexity when it comes to training. Finding harmony between dogs and their people takes more than just putting a new collar on the dog, and putting a new collar on the dog doesn't always lead to the clear communication people hope it will.</p>
+<!--focused heel pic--><img class="internal" src="../placeholder.jpg">
+</div> <!--mid-->
+~~~~
+~~~~ OBEDIENCE COURSES ~~~~
+<div id="mid" class="text">
+<!--banner--><img class="banner" src="../placeholder.jpg">
+<p>Obedience cues such as sit, down, and stay are very important when it comes to having a happy, healthy relationship with your dog. The most important thing in a relationship is trust - and when you know you can trust your dog to come when called, or stay when told, it becomes easier to trust your dog in public spaces, or off-leash, or at the dog park!</p>
+<p>The single most important thing in training is consistency. If you want your dog to do something specific when you say something specific - you have to enforce and reinforce whatever it is you want them to do.</p>
+<p>Luring, prompting, shaping, and responding to pressure are all ways we can teach our dogs to do whatever it is we want them to do. We can use food, toys, leashes, and many other tools in training, but the only thing that matters is if you are using those tools in a consistent way.</p>
+<p>Dogs, especially herding breed dogs, absolutely thrive on routine and predictability. This doesn't mean breakfast always has to be at 7am - but it does mean that your morning routine should look more or less the same no matter what time it is. You don't always have to make your dog sit before you give them their dinner/breakfast, but if that's something you want them to do you should ask for it every single time.</p>
+<p>Service dog tasks are taught very very similarly to obedience cues, but the cues are often non-verbal and require a very strong bond between the dog and the person they are helping.</p>
+</div> <!--mid-->
+~~~~
+~~~~ BEHAVIOR MOD ~~~~
+<div id="mid" class="text">
+<!--banner--><img class="banner" src="../placeholder.jpg">
+<p>Behavior modification is primarily for dogs that are dealing with reactivity, resource guarding, chasing, biting, or other behaviors that lend thmeselves to dangerous situations.</p>
+<p>The most important thing in behavior modification is safety. Depending on what behaviors need to be modified, a basket muzzle or a tie-back system may be appropriate to keep humans and dogs safe.</p>
+<p>High value rewards are extremely important in behavior modification. Cheese, cat food, baby food, peanut butter, or pepperoni are good starting places for high value rewards. Some dogs may need to be put on a schedule for feeding, in order to make food in general higher value for them.
+<p>Obedience based behaviors like sit and down are often good foundations for behavior modification, but most training sessions will be focused on emotional state and learning how to recognize when your dog is getting overwhelmed, overstimulated, or over threshold.</p>
+<p>Oftentimes behavior modification requires setting boundaries and holding your dog accountable within those boundaries. Things like threshold manners, loose leash walking, and learning how to settle on a bed are very important foundations to lay with dogs going through a behavioral modification program.</p>
+<p>Behavior modification requires a deep understanding of canine emotions and body language. Oftentimes, reactive dogs are taking situations into their own paws. If a dog can't look to you for consistent, reliable guidance, they will make their choices on how to deal with a situation - unfortunately making the situation worse a lot of the time!</p>
+<p>When dogs bark, it means they're experiencing some pretty intense emotions! It could be based out of fear, defensiveness, prey drive, or frustration. Many dogs see other animals or people as a threat and bark and lunge to keep them away - others desperately want to greet or play and bark and lunge out of excitement and frustration. Either way, the reacting dog needs to know that they're safe, and they can rely on you to show them how to behave.</p>
+<p>Depending on why the dog is reacting, we can reward the behavior we like by moving <i>away</i> from whatever they're barking about, or by moving <i>towards</i> it. If a dog is so excited to see another dog that they're barking and lunging about it - you moving towards that other dog, or the other dog moving towards them, is going to reward that barking and lunging behavior. If the dog is acting out of a desire to keep themself safe, the barking and lunging is often reinforced when the trigger moves away naturally. What we want to do is control when and how the dog is approached by whatever is triggering the reactive behavior, and control the space between the dog and the trigger in a way that is going to reinforce calm, stable behavior, where the dog looks to you for direction and reinforcement instead of looking to the environment.</p>
+<p>Practice makes performance. It's important to practice calm, stable behavior outside of the presence of triggers, so that your dog understands the behavior we want them to perform while in the presence of triggers. If it's important to you that your dog doesn't crowd your guests, practice creating space when people walk through the front door. If it's important to you that your dog doesn't beg, teach them how to settle on a bed and then ask them to perform that behavior during meal time.</p>
+<!--"place" command image--><img class="internal" src="../placeholder.jpg">
+</div> <!--mid-->
+~~~~
+~~~~ PUBLIC ACCESS ~~~~
+<div id="mid" class="text">
+<!--banner--><img class="banner" src="../placeholder.jpg">
+<p>Do you want your dog to be successful in public spaces? Do your goals include going to dog friendly breweries/restaurant patios? Public access training is for more than just service dogs and therapy dogs - it's for any dog that spends a decent amount of time in public parks, on city streets, or in other spaces where they're likely to encounter things like kids, bikes, cars, and strangers.</p>
+<p>The AKC Canine Good Citizen (CGC) test items can be a great place to start when it comes to public access training. Loose-leash walking in particular is the most important skill a dog needs to know in order to behave successfully in public - if your dog is pulling, they definitely aren't listening!</p>
+<p>Settling in a down position for an extended period of time is also extremely important for public access training. Asking your dog to sit or lie down and simply watch the world go by can show them very quickly that they don't need to react or respond to every single person or dog that crosses their path - simply staying in one place will get them all they want and more.</p>
+<p>Loose leash walking is possibly the most important skill a dog can learn in order to behave in a calm stable manner in public. If the dog is able to remain aware of leash pressure and actively keep themself from hitting the end of their leash, they're very likely in a state of mind where they can make good choices and keep themself and you safe.</p>
+<p>As a certified AKC Canine Good Citizen evaluator, I am able to guide you and your dog through the requirements for regular CGC, urban CGC, and advanced CGC. If your goals include service work or therapy work, passing the CGC test is a good place to start.</p>
+<p>The CGC test consists of the following ten criteria, all evaluated on a pass/fail basis:</p>
+<ol>
+	<li>Accepting a Friendly Stranger</li>
+	<li>Sitting Politely for Petting</li>
+	<li>Appearance + Grooming</li>
+	<li>Loose Leash Walking</li>
+	<li>Walking Through a Crowd</li>
+	<li>Sit + Down on Cue, Stay in Place</li>
+	<li>Come When Called</li>
+	<li>Dog Distraction</li>
+	<li>Noise Distraction</li>
+	<li>Supervised Seperation (3 Minutes)</li>
+</ol>
+<!--image of a Cool Dog--><img class="internal" src="../placeholder.jpg">
+<p>The CGC test is not going to make or break your public access training, but it is a good starting place to understand the skills your dog needs to have in order to navigate public spaces in a polite manner. Not only should your dog be able to walk nicely on a loose leash no matter how short that leash is, they should also be able to follow you when you walk around other people or objects. They should be able to tolerate being touched by strangers, and should be able to focus on you while strangers are touching them. Your dog doesn't have to be perfect - it's okay to catch a quick drive by sniff, or check out something noisy happening around them. But they should know how to remain calm and composed in a variety of situations if you want your dog to be successful in public spaces.</p>
+</div> <!--mid-->
+~~~~
+~~~~ IN HOME ~~~~
+<div id="mid" class="text">
+<!--banner--><img class="banner" src="../placeholder.jpg">
+<p>Your dog spends most of their life in your home, and that's where most of their training takes place whether you're intending it to or not! Every time you pet your dog, feed your dog, talk to your dog, you're participating in training. What are you teaching them? Are they making choices you like, or are they making choices you'd prefer they didn't? Everytime you respond, or don't respond, to a dog's choice, you're letting them know how you feel about that choice.</p>
+<p>Sometimes we can't be there to directly respond to the choices our dogs make. These are often times when a crate, playpen, or tie-back can be utilized to help our dogs not make choices that could harm them or create undesirable situations. The trash can knocked over is a travesty for you - but a haven of scents and tastes for your dog. Not only do we have to teach our dogs what we want them to do, we have to keep them from doing the things we don't want them to do. Practice makes performance - if your dog is practicing making messes, that's what they'll continue to do! If they're practicing lying quietly while you leave the room, that's the choice they're likely to make in the future.</p>
+<p>Generalizing and proofing are the last steps of training - first you should always familiarize your dog with concepts by starting your training in or around your home, or in a quiet familiar place that doesn't have too many distractions. With particularly sensitive dogs, it can be good to do all of your training in one area of the house to start - sometimes that means restricting your dog's movements, or lowering expectations of their behavior in other areas of the home for a little bit. In order for dogs to learn, you have to teach them context-by-context. Dogs understand very quickly that consequences differ depending on whether they're on leash or off leash, and they quickly learn that rewards differ depending on what you're holding in your hand! By controlling the external variables as much as possible, we can generalize our dogs to different contexts in a step-by-step way.</p>
+<p>Most of the time in-home training is scheduled once a week, once every two weeks, or once every three weeks, depending on your needs and your dog's needs. If your dog needs professional training more often than once a week, take a look at the day training option!</p>
+</div> <!--mid-->
+~~~~
+~~~~ DAY TRAIN ~~~~
+<div id="mid" class="text">
+<!--banner--><img class="banner" src="../placeholder.jpg">
+<p>One option for training is day training, where your dog can spend some dedicated one on one time with a qualified trainer 3 times per week, and you get a bonus session every two weeks to go over what your dog has been learning.</p>
+<p>This option gets you many of the benefits of a board and train without the high cost, or having to spend weeks away from your dog! Your dog will still live at your home, but will spend multiple hours a week practicing skills and learning obedience cues.</p>
+<p>This is a really great option for people who are unable to get out and do the training their dog needs, whether that's due to a busy life, an illness/injury, or any other reason. Day training can also be used to help your dog generalize what they've learned, if you have a hard time getting into public spaces on a regular basis, day training can help your dog get the experience you aren't able to give them.</p>
+<p>Day training can also be useful when it comes to service dog and therapy dog training. The more public access practice your dog gets, the more solid they will be in public spaces. Day training also means your dog can get sessions dedicated to tasking practice, as well as public access practice.</p>
+<p>Reactive dogs can also benefit heavily from multiple training sessions a week. The more often they are asked to display calm behavior in a structured setting, the more often they will offer calm behavior in less structured settings.</p>
+</div> <!--mid-->
+~~~~
+~~~~ RESOURCES ~~~~
+<div id="mid" class="text">
+<p>Resources To Help You and Your Dog</p>
+
+<!--FAS Scale-->
+<!--BAT training-->
+<!--Look at that!-->
+<!--Relaxation Protocol-->
+<!--Kong/Toppl Stuffers-->
+<!--Lickimat ideas-->
+<!--Freeshaping-->
+<!--How When and Where to correct your dog-->
+<!--whispering, asking, telling, yelling-->
+<!--right thing easy wrong thing hard-->
+<!--book list-->
+<!--places to go (orangegate, nisqually state park)-->
+
+</div> <!--mid-->
+~~~~
